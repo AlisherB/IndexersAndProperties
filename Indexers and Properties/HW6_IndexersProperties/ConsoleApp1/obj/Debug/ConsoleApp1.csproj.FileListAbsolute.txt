@@ -1,0 +1,6 @@
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW6_IndexersProperties\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW6_IndexersProperties\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW6_IndexersProperties\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW6_IndexersProperties\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW6_IndexersProperties\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\DZ\HW6_IndexersProperties\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
